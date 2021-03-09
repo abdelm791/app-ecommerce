@@ -32,3 +32,18 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+.price {
+  color: blue;
+  font-size: 22px;
+}
+.card button {
+  border: none;
+  outline: 0;
+  padding: 15px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
