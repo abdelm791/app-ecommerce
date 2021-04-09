@@ -13,7 +13,7 @@ $.Shop.prototype = {
     init: function() {
         // Properties
 
-            this.cartPrefix = "winery-"; // prefix string to be prepended to the cart's name in session storage
+            this.cartPrefix = "Smartphone-"; // prefix string to be prepended to the cart's name in session storage
             this.cartName = this.cartPrefix + "cart"; // cart's name in session storage
             this.shippingRates = this.cartPrefix + "shipping-rates"; // shipping rates key in session storage
             this.total = this.cartPrefix + "total"; // total key in the session storage
