@@ -1,3 +1,23 @@
+
+body {
+  padding-top: 80px;
+}
+
+.show-cart li {
+  display: flex;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-self: center;
+}
+
+
+
+
 /* CSS files add styling rules to your content */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
