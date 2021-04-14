@@ -44,8 +44,8 @@ var cart = {
 
       // PRODUCT IMAGE
       part = document.createElement("img");
-      part.src = "images/" +p.src;
-      part.className = "p-src";
+      part.src = p.img;
+      part.className = "p-img";
       item.appendChild(part);
 
       // PRODUCT NAME

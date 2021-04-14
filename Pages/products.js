@@ -1,27 +1,27 @@
 // DUMMY PRODUCTS (PRODUCT ID : DATA)
 var products = {
   123: {
-    name : "MokBook Thicc",
+    name : "Galaxy S20",
     desc : "Greatest properly off ham exercise all.",
-    src : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
-    price : 2034
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
+    price : 700
   },
   124: {
-    name : "MokBook Rookie",
+    name : "Huawei P40",
     desc : "Unsatiable its possession nor off.",
-    src : "dummy-pdt-b.jpg",
-    price : 1247
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fhuawei-p40-pro.png?v=1615326187567",
+    price : 600
   },
   125: {
-    name : "iPong Max",
+    name : "Galaxy Ultra S21",
     desc : "All difficulty unreserved the solicitude.",
-    src : "dummy-pdt-a.jpg",
-    price : 675
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fsamsung-galaxy-s20-ultra-5g.png?v=1615326692569",
+    price : 700
   },
   126: {
-    name : "iTab Pok",
+    name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
-    src : "dummy-pdt-a.jpg",
-    price : 842
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
+    price : 300
   }
 };
