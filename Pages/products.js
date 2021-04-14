@@ -3,7 +3,7 @@ var products = {
   123: {
     name : "MokBook Thicc",
     desc : "Greatest properly off ham exercise all.",
-    img : "dummy-pdt-b.jpg",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 2034
   },
   124: {
