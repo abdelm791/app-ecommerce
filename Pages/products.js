@@ -23,49 +23,49 @@ var products = {
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
   127: {
-    name : "Motorola One Hyper",
+    name : "Motorola One Macro",
     desc : "Had judgment out property the supplied. ",
-    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
-    price : 300
-  }
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-macro.png?v=1615329621316",
+    price : 229
+  },
 128: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
 129: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
 130: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
 131: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
 132: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
 133: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 300
-  }
+  },
 134: {
     name : "Motorola One Hyper",
     desc : "Had judgment out property the supplied. ",
