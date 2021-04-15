@@ -13,8 +13,8 @@ input.cart, button.cart {
   font-size: 1em;
   padding: 10px; 
   border: none;
-  color: #fff;
-  background: #d64107;
+  color: #4B0082;
+  background: #FFF5EE;
   cursor: pointer;
 }
 
@@ -51,7 +51,7 @@ input.p-add { width: 80%; }
 /* (D) CURRENT SHOPPING CART */
 #cart-items {
   padding-top: 100px;
-  background: ;
+  background: #AFEEEE;
 }
 .c-item {
   display: flex;
@@ -79,6 +79,3 @@ input.c-empty, input.c-checkout {
   #cart-products { grid-template-columns: auto; }
 }
 
-.ms-1 {
-  margin-left: ($spacer * .25) !important;
-}
