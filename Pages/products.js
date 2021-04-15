@@ -2,7 +2,7 @@
 var products = {
   123: {
     name : "Galaxy S20",
-    desc : "Greatest properly off ham exercise all.",
+    desc : "Released 2020, March 06 163g, 7.9mm thickness Android 10, up to Android 11, One UI 3.0128GB storage, microSDXC",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
     price : 700
   },
