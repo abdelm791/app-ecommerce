@@ -74,7 +74,7 @@ var products = {
   },
   135: {
     name : "Xiaomi Mi 11",
-    desc : "Had judgment out property the supplied. ",
+    desc : "Released 2021, January 01 196g (Glass) / 194g (Leather), 8.1mm thickness Android 11, MIUI 12.5 128GB/256GB storage, no card slot ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-11.png?v=1615819280401",
     price : 799
   },
