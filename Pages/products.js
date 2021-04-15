@@ -67,12 +67,35 @@ var products = {
     price : 759
   },
 134: {
-    name : "Motorola One Hyper",
+    name : "Xiaomi Mi 10",
     desc : "Had judgment out property the supplied. ",
-    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
-    price : 300
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2FXiaomi%20Mi%2010.jfif?v=1615818462860",
+    price : 399
+  },
+  135: {
+    name : "Xiaomi Mi 11",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-11.png?v=1615819280401",
+    price : 799
+  },
+136: {
+    name : "Xiaomi MI Note 10",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-note-10.png?v=1615819459794",
+    price : 100
+  },
+  137: {
+    name : "Xiaomi Mi 11",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-11.png?v=1615819280401",
+    price : 799
+  },
+ 138: {
+    name : "Xiaomi MI Note 10",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-note-10.png?v=1615819459794",
+    price : 100
   }
-  
   
   
   
