@@ -31,10 +31,10 @@ var products = {
     price : 229
   },
 128: {
-    name : "Motorola One Hyper",
+    name : "Xiaomi Mi 10",
     desc : "Had judgment out property the supplied. ",
-    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fmotorola-one-hyper.png?v=1615328961903",
-    price : 300
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-10.png?v=1615329745777",
+    price : 399
   },
 129: {
     name : "Motorola One Hyper",
