@@ -2,9 +2,10 @@
 #cart-wrap {
   font-family: arial, sans-serif;
   display: grid;
-  grid-template-columns: 80% 60%;
-  margin:  25 auto;
+  grid-template-columns: 90% 40%;
+  margin:  50 ;
   max-width: 1000px;
+ 
 }
 input.cart, button.cart {
   font-weight: bold;
