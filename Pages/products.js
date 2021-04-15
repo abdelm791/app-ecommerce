@@ -85,16 +85,16 @@ var products = {
     price : 100
   },
   137: {
-    name : "Xiaomi Mi 11",
+    name : "Xiaomi Redmi 7",
     desc : "Had judgment out property the supplied. ",
-    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-11.png?v=1615819280401",
-    price : 799
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-7.png?v=1615888540994",
+    price : 199
   },
  138: {
-    name : "Xiaomi MI Note 10",
+    name : "Xiaomi Redmi Note 7",
     desc : "Had judgment out property the supplied. ",
-    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-note-10.png?v=1615819459794",
-    price : 100
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-7.png?v=1615888753253",
+    price : 199
   }
   
   
