@@ -3,8 +3,9 @@
   font-family: arial, sans-serif;
   display: grid;
   grid-template-columns: 90% 40%;
-  margin:  50 ;
+ 
   max-width: 1000px;
+ 
  
 }
 input.cart, button.cart {
@@ -76,4 +77,8 @@ input.c-empty, input.c-checkout {
 @media screen AND (max-width: 768px) {
   #cart-wrap { grid-template-columns: 60% 40%; }
   #cart-products { grid-template-columns: auto; }
+}
+
+.ms-1 {
+  margin-left: ($spacer * .25) !important;
 }
