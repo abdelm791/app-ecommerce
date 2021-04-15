@@ -77,3 +77,15 @@ input.c-empty, input.c-checkout {
   #cart-products { grid-template-columns: auto; }
 }
 
+.container{
+  border: 3px solid #fff;
+  padding: 100px;
+}
+
+
+.card{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
