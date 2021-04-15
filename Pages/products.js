@@ -95,8 +95,25 @@ var products = {
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-7.png?v=1615888753253",
     price : 199
+  },
+  139: {
+    name : "Xiaomi Redmi Note 8T",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-8t.png?v=1615889090935",
+    price : 600
+  },
+ 140: {
+    name : "Xiaomi Redmi Note 9",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-9.png?v=1617265657782",
+    price : 169
+  },
+  141: {
+    name : "Xiaomi Redmi Note 9s",
+    desc : "Had judgment out property the supplied. ",
+    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-9s.png?v=1617266778024",
+    price : 182
   }
-  
   
   
   
