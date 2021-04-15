@@ -2,7 +2,7 @@
 #cart-wrap {
   font-family: arial, sans-serif;
   display: grid;
-  grid-template-columns: 80% 50%;
+  grid-template-columns: 80% 60%;
   margin:  25 auto;
   max-width: 1000px;
 }
