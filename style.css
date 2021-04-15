@@ -3,10 +3,8 @@
   font-family: arial, sans-serif;
   display: grid;
   grid-template-columns: 90% 40%;
- 
   max-width: 1000px;
- 
- 
+
 }
 input.cart, button.cart {
   font-weight: bold;
