@@ -38,7 +38,7 @@ var products = {
   },
 129: {
     name : "Galaxy Note S20",
-    desc : "Had judgment out property the supplied. ",
+    desc : "6.7” flat FHD+ Super AMOLED Plus Infinity-O Display (2400x1080) 393 ppi HDR10+ certified",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fsamsung-galaxy-note-20.png?v=1615326913985",
     price : 650
   },
@@ -50,7 +50,7 @@ var products = {
   },
 131: {
     name : "Xiaomi Redmi Note 9 Pro",
-    desc : "",
+    desc : "Released 2020, May 05 209g, 8.8mm thickness Android 10, MIUI 11 64GB/128GB storage, microSDXC",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-9-pro.png?v=1615330865071",
     price : 229
   },
@@ -66,45 +66,43 @@ var products = {
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2FOneplus%207t%20Pro.png?v=1615330626487 ",
     price : 759
   },
+
 134: {
-    name : "Xiaomi Mi 10",
-    desc : "Had judgment out property the supplied. ",
-    img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2FXiaomi%20Mi%2010.jfif?v=1615818462860",
-    price : 399
-  },
-  135: {
     name : "Xiaomi Mi 11",
     desc : "Released 2021, January 01 196g (Glass) / 194g (Leather), 8.1mm thickness Android 11, MIUI 12.5 128GB/256GB storage, no card slot ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-11.png?v=1615819280401",
     price : 799
   },
-136: {
+135: {
     name : "Xiaomi MI Note 10",
-    desc : "Had judgment out property the supplied. ",
+    desc : "Released 2019, November 11 208g, 9.7mm thickness Android 9.0, up to Android 11, MIUI 12 128GB/256GB storage, no card slot",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-mi-note-10.png?v=1615819459794",
     price : 100
   },
-  137: {
+  136: {
     name : "Xiaomi Redmi 7",
     desc : "Had judgment out property the supplied. ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-7.png?v=1615888540994",
     price : 199
   },
- 138: {
+ 137: {
     name : "Xiaomi Redmi Note 7",
-    desc : "Had judgment out property the supplied. ",
+    desc : "Released 2019, February 28 186g, 8.1mm thickness Android 9.0, planned upgrade to 10, MIUI 12 32GB/64GB/128GB storage, microSDXC ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-7.png?v=1615888753253",
     price : 199
   },
   139: {
     name : "Xiaomi Redmi Note 8T",
-    desc : "Had judgment out property the supplied. ",
+    desc : "Released 2019, November 08 200g, 8.6mm thickness Android 9.0, up to Android 10, MIUI 12 32GB/64GB/128GB storage, microSDXC ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-8t.png?v=1615889090935",
     price : 600
   },
  140: {
     name : "Xiaomi Redmi Note 9",
-    desc : "Had judgment out property the supplied. ",
+    desc : "Released 2020, May 12
+199g, 8.9mm thickness
+Android 10, MIUI 12
+64GB/128GB storage, microSDXC ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-9.png?v=1617265657782",
     price : 169
   },
