@@ -99,22 +99,15 @@ var products = {
   },
  140: {
     name : "Xiaomi Redmi Note 9",
-    desc : "Released 2020, May 12
-199g, 8.9mm thickness
-Android 10, MIUI 12
-64GB/128GB storage, microSDXC ",
+    desc : "Released 2020, May 12 199g, 8.9mm thickness Android 10, MIUI 12 64GB/128GB storage, microSDXC ",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-9.png?v=1617265657782",
     price : 169
   },
   141: {
     name : "Xiaomi Redmi Note 9s",
-    desc : "Had judgment out property the supplied. ",
+    desc : "Released 2020, April 30 209g, 8.8mm thickness Android 10, up to Android 11, MIUI 12 64GB/128GB storage, microSDXC",
     img : "https://cdn.glitch.com/dd0e54bb-605f-41b2-ada5-7027b3736516%2Fxiaomi-redmi-note-9s.png?v=1617266778024",
     price : 182
-  }
-  
-  
-  
-  
+  } 
   
 };
